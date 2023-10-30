@@ -16,6 +16,7 @@ body {
   background-color: #e5eaf0;
 }
 
+/* Main container */
 .container {
   width: 368px;
   margin: 164px auto;
@@ -67,6 +68,7 @@ body {
   margin-left: -16px;
 }
 
+/* Footer */
 .container footer {
   width: 100%;
 }
