@@ -1,0 +1,1 @@
+Challenge "Minimal Blog Card" - https://devchallenges.io/
